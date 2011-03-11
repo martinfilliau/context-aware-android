@@ -1,0 +1,9 @@
+Context-aware Android application
+=========
+
+Based on context informations (such as the name of the WiFi access point currently connected to), do some actions (e.g. mute ringtone).
+
+Contexts:
+
+Situations:
+
